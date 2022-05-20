@@ -28,23 +28,4 @@ THEN the saved events persist
 
 ## Usage 
 
-Click on the textarea of the timeblock you want to alter and type in your task. Click the save icon and everything you typed will be saved in local storage for later use.
-
-## Technology Used
-
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-* jQuery
-* moment.js
-
-## Screenshots
-
-![Screenshot of deployed app](\assets\images\Work-Day-Scheduler.png)
-
-
-
-
-
-
+Click on the text area of the timeblock you want to alter and type in your task. Click the save icon and everything you typed will be saved in local storage for later use.
