@@ -41,7 +41,7 @@ Click on the textarea of the timeblock you want to alter and type in your task. 
 
 ## Screenshots
 
-![Screenshot of deployed app](assets\images\Work-Day-Scheduler.png)
+![Screenshot of deployed app](\assets\images\Work-Day-Scheduler.png)
 
 
 
